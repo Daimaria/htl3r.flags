@@ -1,5 +1,7 @@
 <?php
 
+namespace "HTL3R\Flags";
+
 abstract class Flag {
 		private $name;
 		private $color;

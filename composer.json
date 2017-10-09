@@ -1,0 +1,17 @@
+{
+    "name": "htl3r/flags",
+    "description": "Flags-Code",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Johanna Kucera",
+            "email": "johanna.kucera@htl.rennweg.at"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "HTL3R\\Flags\\": "src"
+        }
+    }
+    "require": {}
+}

@@ -1,7 +1,6 @@
 <?php
 
-require_once "Flag.php";
-require_once "FlagSize.php";
+namespace "HTL3R\Flags";
 
 class rectFlag extends Flag implements FlagSize{
 		private $height;
