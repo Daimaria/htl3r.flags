@@ -12,6 +12,6 @@ abstract class Flag {
 	}
 
 	function __toString(){
-		return "$this->name in Farbe $this->color";
+		return "Flagge von $this->name, Farbe $this->color";
 	}
 }
