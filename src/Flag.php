@@ -1,6 +1,6 @@
 <?php
 
-namespace "HTL3R\Flags";
+namespace HTL3R\Flags;
 
 abstract class Flag {
 	private $name;

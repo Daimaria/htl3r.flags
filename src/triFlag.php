@@ -1,6 +1,6 @@
 <?php
 
-namespace "HTL3R\Flags";
+namespace HTL3R\Flags;
 
 class triFlag extends Flag implements FlagSize{
 	private $a;
