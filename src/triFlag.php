@@ -12,7 +12,7 @@ class triFlag extends Flag implements FlagSize{
 		$this->ha = $heiA;
 	}
 
-	function size(){
+	public function getSize(){
 		return ($this->a * $this->ha)/2;
 	}
 }

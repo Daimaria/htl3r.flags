@@ -12,7 +12,7 @@ class rectFlag extends Flag implements FlagSize{
 		$this->width = $wid;
 	}
 
-	function size(){
+	public function getSize(){
 		return $this->height * $this->width;
 	}
 }

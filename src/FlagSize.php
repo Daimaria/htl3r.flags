@@ -3,5 +3,5 @@
 namespace HTL3R\Flags;
 	
 interface FlagSize {
-	function size();
+	public function getSize();
 }
